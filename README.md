@@ -4,7 +4,6 @@ Projeto de portfólio em análise de dados. Investiga onde, quando e por que oco
 
 Dados 100% fictícios. O conjunto de dados é sintético (companhia e voos inventados), gerado com apoio de IA, e foi criado para demonstrar o método de análise. Os resultados não representam nenhuma operação real.
 
-Mostrar Imagem
 
 Perguntas de negócio
 Qual turno atrasa mais?
@@ -55,4 +54,4 @@ A importância de checar os resultados do Power BI contra as consultas em SQL
 Apresentar limitações da análise junto com os resultados
 Autor
 
-Vinicius da Gama Leal: estudante de Análise e Desenvolvimento de Sistemas, com experiência em operações aeroportuárias. LinkedIn
+Vinicius da Gama Leal: estudante de Análise e Desenvolvimento de Sistemas, com experiência em operações aeroportuárias. (https://www.linkedin.com/in/viniciusdagamaleal)
